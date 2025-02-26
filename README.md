@@ -12,7 +12,7 @@ If it's your first time using this tool, follow the steps below to install the n
 2. Run `setup.bat` to install all the required dependencies.
 
 ```bash
-setup.bat
+setup.bat```
 This will install the necessary Python packages.
 
 # 2. Starting the Tool
