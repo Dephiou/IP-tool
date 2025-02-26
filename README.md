@@ -58,8 +58,11 @@ This tool is open-source and available under the MIT License.
 For any questions or suggestions, you can reach out to me:
 
 Discord: deephiou
+
 Email: contact@dephiou.fr
+
 Special Thanks
+
 A big thank you to the creators of the requests library and everyone who has contributed to this project!
 
 Enjoy using the tool! 🌐
