@@ -18,15 +18,7 @@ This will install the necessary Python packages.
 
 # 2. Starting the Tool
 
-Once you have completed the setup, you can start the tool by running start.bat. This will launch the main menu where you can choose which feature to use (such as IP Location Lookup, Ping Tool, etc.).
-
-bash
-
-Copier
-
-Modifier
-
-`start.bat`
+Once you have completed the setup, you can start the tool by running `start.bat`. This will launch the main menu where you can choose which feature to use (such as IP Location Lookup, Ping Tool, etc.).
 
 Now you are ready to use the tool!
 
